@@ -29,3 +29,20 @@ TBD
 ```
 
 ---
+
+---
+
+## ![party-profile](../docs/v1_wireframes/party-profile.png)
+
+TODO:  
+FrontEnd Route URL: `/:id`  
+BackEnd API Endpoint: `/events/:id`  
+State: `{ event_profile, description, comments, ratings, img, attendees }`  
+Actions: `TBD`  
+Components:
+
+```
+TBD
+```
+
+---
